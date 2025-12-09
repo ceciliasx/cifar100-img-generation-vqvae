@@ -1,6 +1,7 @@
 # 🖼️ AI Image Generation with VQ-VAE
 
 Dataset: **Telephone images**
+
 Source: https://github.com/cyizhuo/CIFAR-100-dataset / https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### **Model Architecture**
